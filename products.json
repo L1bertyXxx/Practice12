@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Шоколад",
+      "price": 50,
+      "available": true,
+      "weight": 100
+    },
+    {
+      "name": "Кофе",
+      "price": 100,
+      "available": false,
+      "weight": 250
+    },
+    {
+      "name": "Чай",
+      "price": 70,
+      "available": true,
+      "weight": 50
+    },
+    {
+      "name": "Шашлык",
+      "price": 200,
+      "weight": 200,
+      "available": true
+    },
+    {
+      "name": "Лобио",
+      "price": 450,
+      "weight": 300,
+      "available": true
+    },
+    {
+      "name": "Сациви",
+      "price": 400,
+      "weight": 350,
+      "available": true
+    },
+    {
+      "name": "Тан",
+      "price": 150,
+      "weight": 200,
+      "available": true
+    },
+    {
+      "name": "Натахтари",
+      "price": 300,
+      "weight": 500,
+      "available": false
+    }
+  ]
+}
